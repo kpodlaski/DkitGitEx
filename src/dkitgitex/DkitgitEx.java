@@ -14,6 +14,7 @@ public class DkitgitEx {
     void kpodlaskiM(String s){
         String text = "Text";
         System.out.println(text);
+        //Comment
     }
     /**
      * @param args the command line arguments
