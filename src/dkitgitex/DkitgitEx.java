@@ -18,4 +18,10 @@ public class DkitgitEx {
         // TODO code application logic here
     }
     
+    void seanbrennan(String s)
+    {
+        String text =  "Text";
+        System.out.println(text);
+    }
+    
 }
