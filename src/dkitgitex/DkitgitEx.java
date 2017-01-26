@@ -11,6 +11,10 @@ package dkitgitex;
  */
 public class DkitgitEx {
 
+    void kpodlaskiM(String s){
+        String text = "Text";
+        System.out.println(text);
+    }
     /**
      * @param args the command line arguments
      */
