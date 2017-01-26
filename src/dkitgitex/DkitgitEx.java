@@ -21,4 +21,10 @@ public class DkitgitEx {
         
     }
     
+    void seanbrennan(String s)
+    {
+        String text =  "Text";
+        System.out.println(text);
+    }
+    
 }
