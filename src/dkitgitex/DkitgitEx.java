@@ -22,7 +22,7 @@ public class DkitgitEx {
     public static void main(String[] args) {
        
         System.out.print("Dont Click Here");
-        
+        martinMalinowski();
         
     }
     
@@ -31,5 +31,8 @@ public class DkitgitEx {
         String text =  "Text";
         System.out.println(text);
     }
-    
+
+    public static void martinMalinowski() {
+        System.out.println("Hi");
+    }
 }
